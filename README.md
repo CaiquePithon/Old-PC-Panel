@@ -1,4 +1,4 @@
-# MASTER SUITE — Painel Interativo de RPG
+# OLD PC PANEL — Painel Interativo de RPG
 
 Painel em HTML, CSS e JavaScript para uso do mestre e consulta dos jogadores em uma campanha de RPG com estética inspirada em terminais de ficção científica. A interface utiliza fundo escuro, elementos verdes fluorescentes e efeitos visuais de monitor CRT.
 
@@ -25,6 +25,7 @@ Painel em HTML, CSS e JavaScript para uso do mestre e consulta dos jogadores em 
 | `Ctrl + D` | Desliga a interface. Pressionado novamente, liga o sistema e abre o terminal de inicialização seguido do modo jogador. |
 | `Delete` / `Del` | Exclui a caixa selecionada no modo mestre. Se um elemento do mapa estiver selecionado, exclui somente esse elemento. Não atua enquanto o foco estiver em um campo de edição. |
 | `Esc` | Fecha uma janela de confirmação aberta. |
+| `Botão Direito` | Edita o nome das abas. |
 
 O modo mestre apresenta os controles de edição. O modo jogador oculta esses controles e permite que os jogadores consultem e utilizem os componentes interativos disponíveis.
 
@@ -123,7 +124,7 @@ Exporte um backup antes de fazer alterações grandes ou resetar o painel. Guard
 
 ---
 
-**Projeto:** MASTER SUITE  
+**Projeto:** OLD PC PANEL  
 **Arquivo principal:** `painel_master_suite.html`  
 **Formato:** aplicação web local (HTML/CSS/JavaScript)  
 **Idioma da interface:** português, com rótulos de terminal em inglês quando aplicável.
