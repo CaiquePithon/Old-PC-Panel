@@ -11,9 +11,10 @@ Painel em HTML, CSS e JavaScript para uso do mestre e consulta dos jogadores em 
 ## 2. Como iniciar
 
 1. Baixe ou mantenha `painel_master_suite.html` em uma pasta do computador.
-2. Abra o arquivo com um navegador.
-3. O sistema inicia diretamente no modo mestre.
-4. Use os controles superiores e o painel lateral para organizar as páginas e editar o conteúdo.
+2. Ou entre no site `https://caiquepithon.github.io/Old-PC-Panel/` em qualquer navegador.
+3. Abra o arquivo com um navegador.
+4. O sistema inicia diretamente no modo mestre.
+5. Use os controles superiores e o painel lateral para organizar as páginas e editar o conteúdo.
 
 > **Importante:** esta versão é local. O conteúdo fica salvo no armazenamento do navegador e não é sincronizado automaticamente com outros computadores ou com os navegadores dos jogadores.
 
